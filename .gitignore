@@ -205,10 +205,13 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
-data/
+data/*
 *.csv
 *.txt
 *.zip
 .ipynb_checkpoints/
 __pycache__/
+!data/.gitkeep
+!data/raw/.gitkeep
+!data/processed/.gitkeep
 
