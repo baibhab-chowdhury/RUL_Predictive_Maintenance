@@ -38,7 +38,6 @@ The **full dataset is NOT included in this repository** due to size and good ver
 
 Instead:
 - The dataset is linked above.
-- A **small sample file** is included for inspection purposes (if required).
 - The complete project is **fully reproducible**.
 
 
