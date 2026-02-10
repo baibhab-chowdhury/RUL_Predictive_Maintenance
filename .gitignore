@@ -206,4 +206,17 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.ipynb_checkpoints/
 
+# Data 
+data/
+models/*.h5
+models/*.pkl
+
+# Environment
+.env
+venv/
